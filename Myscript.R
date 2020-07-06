@@ -1,2 +1,4 @@
-int x <- 5+9
+a<-2
+b<-3
+x<-a+b
 print(x)
